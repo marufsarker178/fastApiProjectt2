@@ -1,0 +1,59 @@
+POST https://httpbin.org/post
+Content-Type: application/json
+
+{
+  "id": 999,
+  "value": "content"
+}
+
+<> 2022-09-01T215149.200.json
+
+###
+
+GET http://httpbin.org/anything?id=00c79522-c13f-4068-b78b-34acf42af389&ts=1662047466
+
+<> 2022-09-01T215106.200.json
+
+###
+
+GET http://httpbin.org/anything?id=1083f262-ca0a-4a14-936b-43560b6c07e8&ts=1662047460
+
+<> 2022-09-01T215101.200.json
+
+###
+
+GET http://127.0.0.1:8000/hello/maruf
+Accept: application/json
+
+<> 2022-09-01T212950.200.json
+
+###
+
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+<> 2022-09-01T212933.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+
+<> 2022-09-01T212929.200.json
+
+###
+
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+<> 2022-09-01T212723-1.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+
+<> 2022-09-01T212723.200.json
+
+###
+

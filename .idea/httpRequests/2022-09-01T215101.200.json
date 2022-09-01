@@ -1,0 +1,19 @@
+{
+  "args": {
+    "id": "1083f262-ca0a-4a14-936b-43560b6c07e8",
+    "ts": "1662047460"
+  },
+  "data": "",
+  "files": {},
+  "form": {},
+  "headers": {
+    "Accept-Encoding": "gzip,deflate",
+    "Host": "httpbin.org",
+    "User-Agent": "Apache-HttpClient/4.5.13 (Java/17.0.3)",
+    "X-Amzn-Trace-Id": "Root=1-631194a1-10221a1e0ad411b81e659fb3"
+  },
+  "json": null,
+  "method": "GET",
+  "origin": "103.135.254.167",
+  "url": "http://httpbin.org/anything?id=1083f262-ca0a-4a14-936b-43560b6c07e8&ts=1662047460"
+}
